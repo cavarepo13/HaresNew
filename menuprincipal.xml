@@ -6,15 +6,15 @@
 <channel>
 <name>[COLOR pink] ==== [/COLOR] [COLOR pink] SEJAM BEM-VINDOS AO ADDON HARES/BR/RS/R.O ENTRETENIMENTO AOS USUSÁRIO DO MUNDO KODI, LEMBRANDO QUE O CONTEÚDO É PEGO NA INTERNET ENTÃO PODE SER QUE ALGUMAS OPÇÕES, PODEM NÃO FUNCIONAR, OBRIGADO Á TODOS E BOM DIVERTIMENTO.[COLOR pink] ==== [/COLOR]</name>
 <thumbnail></thumbnail>
-<fanart>https://archive.org/download/fanart_20250828/haresfilmesfanart.png</fanart>
+<fanart>https://archive.org/download/icon_20250828/fanart.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/menuprincipal.xml</externallink>
 </channel>
 
 <channel>  
 <name>[COLOR orange] FILMES [/COLOR] 2025 </name>
-<thumbnail>https://archive.org/download/fanart_20250828/haresfilmes.png</thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/icon_20250828/icon.png</thumbnail>
+<fanart>https://archive.org/download/fanart_20250828/haresfilmes.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/filmesharesnew.xml</externallink>
 </channel>
@@ -29,7 +29,7 @@
   
 <channel>  
 <name>[COLOR orange] TV ONLINE [/COLOR] CATEGORIAS/HLS TESTER by D.S. </name>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/download/icon_20250828/harestvicon.png</thumbnail>
 <fanart>https://archive.org/download/fanart_20250828/haresnewtvfanart1.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/tvharesnew.xml</externallink>
