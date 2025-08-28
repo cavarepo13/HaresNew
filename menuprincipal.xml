@@ -20,7 +20,7 @@
 </channel>
   
 <channel>  
-<name>[COLOR pink] SÉRIES [/COLOR] CATEGORIAS </name>
+<name>[COLOR pink] SÉRIES [/COLOR] 2025 </name>
 <thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000282461f780a341fb479a12e5_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3De761ed6d-5528-4c81-af7b-d58838227948.png</thumbnail>
 <fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000282461f780a341fb479a12e5_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3De761ed6d-5528-4c81-af7b-d58838227948.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
@@ -32,7 +32,7 @@
 <thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_000000002d6861f78f1d498bf91682b2_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Defa717a5-1363-4160-99fd-b603ed9df812.png</thumbnail>
 <fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_000000002d6861f78f1d498bf91682b2_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Defa717a5-1363-4160-99fd-b603ed9df812.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://github.com/cavarepo13/HaresNew/edit/main/tvharesnew.xml</externallink>
+<externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/tvharesnew.xml</externallink>
 </channel>
 
 <channel>  
