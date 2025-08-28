@@ -1,0 +1,447 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AGRO+ FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://ixi.paineluhd.club:80/images/0d1eb6c8a1bc30ba6454eb2ab48266ed.png" group-title="✨ABERTOS",AGRO+ FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/6.ts
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/469.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/4774475.ts
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/4774476.ts
+#EXTINF:-1 tvg-id="canalboi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://ixi.paineluhd.club:80/images/53eced46522e5cd74ccb01083dbff7d9.png" group-title="✨ABERTOS",CANAL DO BOI FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/369617.ts
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",Canal Rural HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/470.ts
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://ixi.paineluhd.club:80/images/d8c93108600d114d5727ac8c5fa7b3ec.png" group-title="✨ABERTOS",Canal Rural SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/471.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/369649.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/171844.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/472.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/473.ts
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/474.ts
+#EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/476.ts
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDE TV HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/171878.ts
+#EXTINF:-1 tvg-id="Rede TV FHD" tvg-name="REDE TV SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/477.ts
+#EXTINF:-1 tvg-id="tvcÃƒÆ’Ã‚Â¢mara.br" tvg-name="TV CAMARA" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/479.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/369627.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/480.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/481.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/482.ts
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/369727.ts
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/483.ts
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/171896.ts
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="BAND BAHIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND BAHIA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1374946.ts
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="BAND BAHIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND BAHIA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND BELEM DO PARA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND BELEM DO PARA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/4137369.ts
+#EXTINF:-1 tvg-id="bandbrasÃƒÆ’Ã‚Â­lia.br" tvg-name="BAND BRASILIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND BRASILIA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173196.ts
+#EXTINF:-1 tvg-id="bandcampinas.br" tvg-name="BAND CAMPINAS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND CAMPINAS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/396.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CEARÁ HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND CEARÁ HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173197.ts
+#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND GO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND GO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173198.ts
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND MINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND MINAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND NATAL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND NATAL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1387568.ts
+#EXTINF:-1 tvg-id="Band SP 4k" tvg-name="BAND RECIFE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RECIFE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173200.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RJ FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/399.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",Band RJ HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/400.ts
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="BAND RJ HD³" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RJ HD³
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/80.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RJ SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/401.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RN FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1387565.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1374951.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173201.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND RS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1374952.ts
+#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND SP 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND SP 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1552323.ts
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="BAND SP FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND SP FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/402.ts
+#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND SP HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND SP HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/403.ts
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="BAND SP SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.imgur.com/3G2g2PD.png" group-title="✨BAND",BAND SP SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/404.ts
+#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas HD" tvg-name="GLOBO ALAGOAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ALAGOAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173014.ts
+#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas HD" tvg-name="GLOBO ALAGOAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ALAGOAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/510.ts
+#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas HD" tvg-name="GLOBO ALAGOAS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ALAGOAS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173015.ts
+#EXTINF:-1 tvg-id="globoamazonas.br" tvg-name="GLOBO AMAPA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO AMAPA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172923.ts
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO AMAZONAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO AMAZONAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/511.ts
+#EXTINF:-1 tvg-id="BR - TV Asa Branca HD" tvg-name="GLOBO ASA BRANCA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ASA BRANCA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/512.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAGE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO BAGE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172924.ts
+#EXTINF:-1 tvg-id="Globo Bahia FHD" tvg-name="GLOBO BAHIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO BAHIA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/513.ts
+#EXTINF:-1 tvg-id="Globo Bahia FHD" tvg-name="GLOBO BAHIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO BAHIA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172925.ts
+#EXTINF:-1 tvg-id="Globo Bahia FHD" tvg-name="GLOBO BAHIA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO BAHIA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/514.ts
+#EXTINF:-1 tvg-id="Globo Centro America Cuiaba HD" tvg-name="GLOBO CENTRO AMÉRICA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO CENTRO AMÉRICA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172928.ts
+#EXTINF:-1 tvg-id="Globo Centro America Cuiaba HD" tvg-name="GLOBO CENTRO AMÉRICA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO CENTRO AMÉRICA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172929.ts
+#EXTINF:-1 tvg-id="Globo EPTV São Carlos HD" tvg-name="GLOBO EPTV  SAO CARLOS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV  SAO CARLOS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172930.ts
+#EXTINF:-1 tvg-id="Globo EPTV São Carlos HD" tvg-name="GLOBO EPTV  SAO CARLOS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV  SAO CARLOS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172931.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV CAMPINAS 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/519.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..MTV.Live.HD.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV CAMPINAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172932.ts
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV CAMPINAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172933.ts
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV MINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV MINAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172934.ts
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV RIBEIRAO PRETO SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172935.ts
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172936.ts
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172937.ts
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD²" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO HD²
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/522.ts
+#EXTINF:-1 tvg-id="Globo EPTV São Carlos HD" tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV SAO CARLOS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172938.ts
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="Globo EPTV SUL DE MINAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",Globo EPTV SUL DE MINAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/523.ts
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV SUL DE MINAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/524.ts
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO EPTV SUL DE MINAS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/525.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ESPIRITO SANTO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ESPIRITO SANTO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ESPIRITO SANTO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ESPIRITO SANTO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/526.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ESPIRITO SANTO SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO ESPIRITO SANTO SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/4918425.ts
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="GLOBO FORTALEZA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO FORTALEZA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/528.ts
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="GLOBO FORTALEZA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO FORTALEZA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/529.ts
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="GLOBO FORTALEZA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO FORTALEZA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172940.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO GOIAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO GOIAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/3240678.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO GOIAS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO GOIAS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/3240679.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTEGRAÇÃO MG FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTEGRAÇÃO MG HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/533.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV ALTO LITORAL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172942.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV ALTO LITORAL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172943.ts
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV ALTO LITORAL SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/534.ts
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV CABUGI FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172944.ts
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV CABUGI HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172945.ts
+#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV DOS VALES FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172946.ts
+#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV DOS VALES HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172947.ts
+#EXTINF:-1 tvg-id="intertvgrandeminas.br" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV GRANDE MINAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172948.ts
+#EXTINF:-1 tvg-id="Globo Inter TV Grande Minas HD" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO INTER TV GRANDE MINAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172941.ts
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM BAURU SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/536.ts
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="GLOBO LITORAL SANTOS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO LITORAL SANTOS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA MACEIO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV GAZETA MACEIO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/539.ts
+#EXTINF:-1 tvg-id="Globo RPC Maringa HD" tvg-name="GLOBO MARINGÁ HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO MARINGÁ HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/540.ts
+#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MG FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO MG FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/541.ts
+#EXTINF:-1 tvg-id="redeminas.br" tvg-name="GLOBO MG HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO MG HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MT HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO MT HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/546.ts
+#EXTINF:-1 tvg-id="Globo NSC TV Blumenau HD" tvg-name="GLOBO NSC BLUMENAU FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC BLUMENAU FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172950.ts
+#EXTINF:-1 tvg-id="Globo NSC TV Blumenau HD" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC BLUMENAU HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172951.ts
+#EXTINF:-1 tvg-id="Globo NSC TV Centro Oeste HD" tvg-name="GLOBO NSC CENTRO OESTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC CENTRO OESTE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172952.ts
+#EXTINF:-1 tvg-id="Globo NSC TV Centro Oeste HD" tvg-name="GLOBO NSC CENTRO OESTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC CENTRO OESTE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172953.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CHAPECO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC CHAPECO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172954.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CHAPECO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC CHAPECO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172955.ts
+#EXTINF:-1 tvg-id="Globo NSC TV Criciuma HD" tvg-name="GLOBO NSC CRICIUMA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC CRICIUMA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172956.ts
+#EXTINF:-1 tvg-id="Globo NSC TV Criciuma HD" tvg-name="GLOBO NSC CRICIUMA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC CRICIUMA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172957.ts
+#EXTINF:-1 tvg-id="Globo NSC TV JoinVille HD" tvg-name="GLOBO NSC JOINVILLE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC JOINVILLE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172958.ts
+#EXTINF:-1 tvg-id="Globo NSC TV JoinVille HD" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC JOINVILLE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172959.ts
+#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC TV FLORIANOPOLIS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC TV FLORIANOPOLIS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/548.ts
+#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC TV FLORIANÓPOLIS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC TV FLORIANÓPOLIS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172960.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="GLOBO NSC TV FLORIANÓPOLIS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO NSC TV FLORIANÓPOLIS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172961.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PERNABUCO  HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO PERNABUCO  HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/552.ts
+#EXTINF:-1 tvg-id="BR - RBS TV Porto Alegre HD" tvg-name="GLOBO RBS 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/1168.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul FHD" tvg-name="GLOBO RBS CAXIAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS CAXIAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/554.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul FHD" tvg-name="GLOBO RBS CAXIAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS CAXIAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CRUZ ALTA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS CRUZ ALTA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172962.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CRUZ ALTA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS CRUZ ALTA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172963.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS PORTO ALEGRE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172964.ts
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS PORTO ALEGRE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172965.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul FHD" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS TV CAXIAS DO SUL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172966.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul FHD" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS TV CAXIAS DO SUL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172967.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Passo Fundo HD" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS TV PASSO FUNDO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172968.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Passo Fundo HD" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS TV PASSO FUNDO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172969.ts
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS TV PELOTAS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172970.ts
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RBS TV PELOTAS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172971.ts
+#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Manaus FHD" tvg-name="GLOBO REDE AMAZONICA MANAUS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE AMAZONICA MANAUS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/558.ts
+#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Manaus FHD" tvg-name="GLOBO REDE AMAZONICA MANAUS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE AMAZONICA MANAUS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/559.ts
+#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Manaus FHD" tvg-name="GLOBO REDE AMAZONICA MANAUS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE AMAZONICA MANAUS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172977.ts
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE AMAZONICA PORTO VELHO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172972.ts
+#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Boa Vista FHD" tvg-name="GLOBO REDE BOA VISTA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE BOA VISTA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172973.ts
+#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Macapa FHD" tvg-name="GLOBO REDE MACAPA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE MACAPA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172974.ts
+#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Macapa FHD" tvg-name="GLOBO REDE MACAPA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO REDE MACAPA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172975.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO BRANCO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RIO BRANCO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/561.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO BRANCO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RIO BRANCO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172978.ts
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="GLOBO RIO BRANCO SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RIO BRANCO SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172979.ts
+#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="GLOBO RIO GRANDE DO SUL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RIO GRANDE DO SUL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/562.ts
+#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RIO GRANDE DO SUL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/563.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RN HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RN HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/567.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RONDONOPOLIS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RONDONOPOLIS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172980.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RONDONOPOLIS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RONDONOPOLIS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172981.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RORAIMA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RORAIMA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/568.ts
+#EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC CASCAVEL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/569.ts
+#EXTINF:-1 tvg-id="Globo RPC Cascavel HD" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC CASCAVEL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172983.ts
+#EXTINF:-1 tvg-id="Globo RPC Cascavel HD" tvg-name="GLOBO RPC CASCAVEL SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC CASCAVEL SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172982.ts
+#EXTINF:-1 tvg-id="rpcfoziguaÃƒÂ§u.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC FOZ DO IGUAÇU FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172987.ts
+#EXTINF:-1 tvg-id="rpcfoziguaÃƒÂ§u.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC FOZ DO IGUAÇU HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172988.ts
+#EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="GLOBO RPC HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/571.ts
+#EXTINF:-1 tvg-id="Globo RPC Londrina HD" tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC LONDRINA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/538.ts
+#EXTINF:-1 tvg-id="Globo RPC Maringa HD" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC MARINGA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172989.ts
+#EXTINF:-1 tvg-id="Globo RPC Maringa HD" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC MARINGA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172990.ts
+#EXTINF:-1 tvg-id="rpcparanavaÃƒÆ’Ã‚Â­.br" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC PARANAVAI FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172991.ts
+#EXTINF:-1 tvg-id="rpcparanavaÃƒÆ’Ã‚Â­.br" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC PARANAVAI HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172992.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC TV PONTA GROSSA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172993.ts
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RPC TV PONTA GROSSA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172994.ts
+#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="GLOBO RS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/572.ts
+#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="GLOBO RS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO RS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/573.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTA CATARINA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO SANTA CATARINA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/574.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Santa Maria HD" tvg-name="GLOBO SANTA MARIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO SANTA MARIA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172995.ts
+#EXTINF:-1 tvg-id="Globo RBS TV Santa Maria HD" tvg-name="GLOBO SANTA MARIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO SANTA MARIA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172996.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO TV ANHANGUERA GO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV ANHANGUERA GO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172998.ts
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO TV ANHANGUERA GO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV ANHANGUERA GO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172999.ts
+#EXTINF:-1 tvg-id="tvasabranca.br" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV ASA BRANCA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173000.ts
+#EXTINF:-1 tvg-id="tvasabranca.br" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV ASA BRANCA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173001.ts
+#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV CABO BRANCO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/583.ts
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV CABO BRANCO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173005.ts
+#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV CABO BRANCO SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/584.ts
+#EXTINF:-1 tvg-id="globoteresina.br" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV CLUBE TERESINA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173006.ts
+#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV CLUBE TERESINA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173007.ts
+#EXTINF:-1 tvg-id="TV Diario SD" tvg-name="GLOBO TV DIÁRIO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV DIÁRIO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173010.ts
+#EXTINF:-1 tvg-id="TV Diario SD" tvg-name="GLOBO TV DIÁRIO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV DIÁRIO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173011.ts
+#EXTINF:-1 tvg-id="Globo TV Fronteira P. Prudente HD" tvg-name="GLOBO TV FRONTEIRA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV FRONTEIRA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173012.ts
+#EXTINF:-1 tvg-id="Globo TV Fronteira P. Prudente HD" tvg-name="GLOBO TV FRONTEIRA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV FRONTEIRA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173013.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ES VITORIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV GAZETA ES VITORIA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173016.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ES VITORIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV GAZETA ES VITORIA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173017.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV GAZETA SUL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173018.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV GAZETA SUL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173019.ts
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberaba HD" tvg-name="GLOBO TV INTEGRACAO UBERABA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERABA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173020.ts
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberaba HD" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERABA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173021.ts
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberlandia HD" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERLANDIA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173022.ts
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberlandia HD" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERLANDIA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173023.ts
+#EXTINF:-1 tvg-id="GLOJFHD" tvg-name="GLOBO TV INTEGRAÇAO JUIZ DE FORA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRAÇAO JUIZ DE FORA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172949.ts
+#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV INTEGRAÇAO JUIZ DE FORA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRAÇAO JUIZ DE FORA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173024.ts
+#EXTINF:-1 tvg-id="Globo TV Integracao Araxa HD" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRAÇÃO ARAXA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173025.ts
+#EXTINF:-1 tvg-id="Globo TV Integracao Araxa HD" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV INTEGRAÇÃO ARAXA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173026.ts
+#EXTINF:-1 tvg-id="redetvbelem.br" tvg-name="GLOBO TV LIBERAL BELEM FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV LIBERAL BELEM FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/582.ts
+#EXTINF:-1 tvg-id="redetvbelem.br" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV LIBERAL BELEM HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/586.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Bahia" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV LIBERAL BELEM SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/515.ts
+#EXTINF:-1 tvg-id="Globo TV Mirante Cocais HD" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MIRANTE COCAIS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173028.ts
+#EXTINF:-1 tvg-id="Globo TV Mirante FHD" tvg-name="GLOBO TV MIRANTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MIRANTE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/77.ts
+#EXTINF:-1 tvg-id="Globo TV Mirante Cocais HD" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MIRANTE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173027.ts
+#EXTINF:-1 tvg-id="Globo TV Mirante Cocais HD" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MIRANTE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173030.ts
+#EXTINF:-1 tvg-id="Globo TV Mirante Cocais HD" tvg-name="GLOBO TV MIRANTE SÃO LUIS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MIRANTE SÃO LUIS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173029.ts
+#EXTINF:-1 tvg-id="tvmorena.br" tvg-name="GLOBO TV MORENA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MORENA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/587.ts
+#EXTINF:-1 tvg-id="tvmorena.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MORENA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/588.ts
+#EXTINF:-1 tvg-id="Globo TV Morena HD" tvg-name="GLOBO TV MORENA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV MORENA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173031.ts
+#EXTINF:-1 tvg-id="Globo TV Fronteira P. Prudente FHD" tvg-name="GLOBO TV PRESIDENTE PRUDENTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV PRESIDENTE PRUDENTE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173033.ts
+#EXTINF:-1 tvg-id="Globo TV Fronteira P. Prudente FHD" tvg-name="GLOBO TV PRESIDENTE PRUDENTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV PRESIDENTE PRUDENTE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173034.ts
+#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV RIO SUL FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173035.ts
+#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV RIO SUL HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173036.ts
+#EXTINF:-1 tvg-id="Globo Inter TV Serra Mar HD" tvg-name="GLOBO TV SERRA MAR FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV SERRA MAR FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173037.ts
+#EXTINF:-1 tvg-id="Globo Inter TV Serra Mar HD" tvg-name="GLOBO TV SERRA MAR HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV SERRA MAR HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173038.ts
+#EXTINF:-1 tvg-id="Globo TV Subae HD" tvg-name="GLOBO TV SUBAE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV SUBAE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173039.ts
+#EXTINF:-1 tvg-id="Globo TV Sudoeste FHD" tvg-name="GLOBO TV SUDOESTE FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV SUDOESTE FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173040.ts
+#EXTINF:-1 tvg-id="Globo TV Sudoeste FHD" tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV SUDOESTE HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173041.ts
+#EXTINF:-1 tvg-id="Globo Bauru HD" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM BAURU HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173043.ts
+#EXTINF:-1 tvg-id="Globo TV Tem Itapetininga FHD" tvg-name="GLOBO TV TEM ITAPETININGA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM ITAPETININGA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173044.ts
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto HD" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173047.ts
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto FHD" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/69.ts
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto HD" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/172997.ts
+#EXTINF:-1 tvg-id="Globo Sorocaba HD" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/589.ts
+#EXTINF:-1 tvg-id="Globo Sorocaba HD" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173046.ts
+#EXTINF:-1 tvg-id="Globo Sorocaba HD" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/590.ts
+#EXTINF:-1 tvg-id="Globo TV Tribuna Santos HD" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TRIBUNA SANTOS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/591.ts
+#EXTINF:-1 tvg-id="Globo TV Tribuna Santos HD" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TRIBUNA SANTOS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173049.ts
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV TRIBUNA SANTOS SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173050.ts
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173052.ts
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173053.ts
+#EXTINF:-1 tvg-id="BR - TV Verdes Mares HD" tvg-name="GLOBO TV VERDES MARES 4K" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV VERDES MARES 4K
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/369653.ts
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Cariri HD" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV VERDES MARES HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173057.ts
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="GLOBO VANGUARDA HD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO VANGUARDA HD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/592.ts
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="GLOBO VANGUARDA SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO VANGUARDA SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/593.ts
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="GLOBO VANGUARDA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO VANGUARDA FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173059.ts
+#EXTINF:-1 tvg-id="BR - TV Verdes Mares HD" tvg-name="GLOBO TV VERDES MARES FHD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV VERDES MARES FHD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/173061.ts
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=s://i.ibb.co/sVRZjkY/image.png" group-title="✨GLOBOS REGIONAIS",GLOBO TV VERDES MARES SD
+plugin://script.hls.tester/?action=play&url[COLOR pink]AR[/COLOR] [COLOR orange]ES[/COLOR]=://levelxpt.lat:80/776611049/781653727/594.ts
