@@ -5,32 +5,32 @@
   
 <channel>
 <name>[COLOR pink] ==== [/COLOR] [COLOR pink] SEJAM BEM-VINDOS AO ADDON HARES/BR/RS/R.O ENTRETENIMENTO AOS USUSÁRIO DO MUNDO KODI, LEMBRANDO QUE O CONTEÚDO É PEGO NA INTERNET ENTÃO PODE SER QUE ALGUMAS OPÇÕES, PODEM NÃO FUNCIONAR, OBRIGADO Á TODOS E BOM DIVERTIMENTO.[COLOR pink] ==== [/COLOR]</name>
-<thumbnail>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</thumbnail>
-<fanart>https://archive.org/download/fe6070df-c709-40ca-9f68-a2c9e4239093/fe6070df-c709-40ca-9f68-a2c9e4239093.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>https://archive.org/download/fanart_20250828/haresfilmesfanart.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/menuprincipal.xml</externallink>
 </channel>
 
 <channel>  
 <name>[COLOR orange] FILMES [/COLOR] 2025 </name>
-<thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png</thumbnail>
-<fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png</fanart>
+<thumbnail>https://archive.org/download/fanart_20250828/haresfilmes.png</thumbnail>
+<fanart></fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/filmesharesnew.xml</externallink>
 </channel>
   
 <channel>  
 <name>[COLOR pink] SÉRIES [/COLOR] 2025 </name>
-<thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000282461f780a341fb479a12e5_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3De761ed6d-5528-4c81-af7b-d58838227948.png</thumbnail>
-<fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000282461f780a341fb479a12e5_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3De761ed6d-5528-4c81-af7b-d58838227948.png</fanart>
+<thumbnail>https://archive.org/download/fanart_20250828/haresseries.png</thumbnail>
+<fanart>https://archive.org/download/fanart_20250828/haresseriesfanart.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/seriesharesnew.xml</externallink>
 </channel>
   
 <channel>  
 <name>[COLOR orange] TV ONLINE [/COLOR] CATEGORIAS/HLS TESTER by D.S. </name>
-<thumbnail>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_000000002d6861f78f1d498bf91682b2_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Defa717a5-1363-4160-99fd-b603ed9df812.png</thumbnail>
-<fanart>https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_000000002d6861f78f1d498bf91682b2_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Defa717a5-1363-4160-99fd-b603ed9df812.png</fanart>
+<thumbnail></thumbnail>
+<fanart>https://archive.org/download/fanart_20250828/haresnewtvfanart1.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/cavarepo13/HaresNew/refs/heads/main/tvharesnew.xml</externallink>
 </channel>
